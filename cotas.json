@@ -1,0 +1,8 @@
+{
+  "gerado": "2026-10-14T16:00:00-03:00",
+  "fonte": "Bluedeck — última posição liberada (position_status = released) de cada fundo",
+  "fundos": {
+    "nagano-tr": {"bluedeck_id": 5145, "cnpj": "34793111000114", "data": "2026-10-07", "cota": 834.4804434, "pl_mm": 219.22253548},
+    "atlas-fia": {"bluedeck_id": 58, "cnpj": "13083227000190", "data": "2026-10-09", "cota": 3.8670321, "pl_mm": 51.27202973}
+  }
+}
