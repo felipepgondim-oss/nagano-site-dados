@@ -1,8 +1,60 @@
 {
-  "gerado": "2026-10-14T16:00:00-03:00",
-  "fonte": "Bluedeck — última posição liberada (position_status = released) de cada fundo",
+  "gerado": "2026-10-14T18:00:00-03:00",
+  "fonte": "historico das planilhas ate set/2026 + retorno diario oficial da Bluedeck (fundo e benchmark)",
   "fundos": {
-    "nagano-tr": {"bluedeck_id": 5145, "cnpj": "34793111000114", "data": "2026-10-07", "cota": 834.4804434, "pl_mm": 219.22253548},
-    "atlas-fia": {"bluedeck_id": 58, "cnpj": "13083227000190", "data": "2026-10-09", "cota": 3.8670321, "pl_mm": 51.27202973}
+    "nagano-tr": {
+      "bluedeck_id": 5145,
+      "cnpj": "34793111000114",
+      "bench_bluedeck": "IPCA + Yield IMAB",
+      "data": "2026-10-07",
+      "inicio": "2019-12-27",
+      "cota": 834.4804434,
+      "pl_mm": 219.22253548,
+      "f": {
+        "dia": -0.28,
+        "mes": 13.29,
+        "ano": 24.12,
+        "12m": 30.44,
+        "24m": 56.47,
+        "36m": 85.25,
+        "inicio": 125.56
+      },
+      "b": {
+        "dia": 0.06,
+        "mes": 0.33,
+        "ano": 10.12,
+        "12m": 12.89,
+        "24m": 27.65,
+        "36m": 41.43,
+        "inicio": 111.59
+      }
+    },
+    "atlas-fia": {
+      "bluedeck_id": 58,
+      "cnpj": "13083227000190",
+      "bench_bluedeck": "IBXX",
+      "data": "2026-10-09",
+      "inicio": "2009-09-21",
+      "cota": 3.8670321,
+      "pl_mm": 51.27202973,
+      "f": {
+        "dia": 1.92,
+        "mes": 15.18,
+        "ano": 25.34,
+        "12m": 44.25,
+        "24m": 77.58,
+        "36m": 81.17,
+        "inicio": 429.45
+      },
+      "b": {
+        "dia": 1.46,
+        "mes": 12.48,
+        "ano": 29.91,
+        "12m": 47.56,
+        "24m": 60.58,
+        "36m": 82.19,
+        "inicio": 357.73
+      }
+    }
   }
 }
