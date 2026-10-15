@@ -1,32 +1,32 @@
 {
-  "gerado": "2026-10-15T09:15:07-03:00",
+  "gerado": "2026-10-15T09:24:51-03:00",
   "fonte": "historico das planilhas ate set/2026 + retorno diario oficial da Bluedeck (fundo e benchmark)",
   "fundos": {
     "nagano-tr": {
       "bluedeck_id": 5145,
       "cnpj": "34793111000114",
       "bench_bluedeck": "IPCA + Yield IMAB",
-      "data": "2026-10-07",
+      "data": "2026-10-13",
       "inicio": "2019-12-27",
-      "cota": 834.4804434,
-      "pl_mm": 219.22253548,
+      "cota": 851.7653241,
+      "pl_mm": 223.82649003,
       "f": {
-        "dia": -0.28,
-        "mes": 13.29,
-        "ano": 25.18,
-        "12m": 35.8,
-        "24m": 56.73,
-        "36m": 85.3,
-        "inicio": 212.58
+        "dia": -2.0,
+        "mes": 15.64,
+        "ano": 27.77,
+        "12m": 38.7,
+        "24m": 61.77,
+        "36m": 86.85,
+        "inicio": 219.05
       },
       "b": {
         "dia": 0.06,
-        "mes": 0.33,
-        "ano": 10.12,
-        "12m": 12.89,
-        "24m": 27.65,
-        "36m": 41.43,
-        "inicio": 111.59
+        "mes": 0.52,
+        "ano": 10.33,
+        "12m": 12.86,
+        "24m": 27.72,
+        "36m": 41.5,
+        "inicio": 112.0
       }
     },
     "atlas-fia": {
