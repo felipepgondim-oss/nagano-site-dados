@@ -1,10 +1,10 @@
 {
-  "gerado": "2026-10-16T09:15:06-03:00",
+  "gerado": "2026-10-16T19:50:07-03:00",
   "fonte": "historico das planilhas ate set/2026 + retorno diario oficial da Bluedeck (fundo e benchmark)",
   "data": "2026-10-14",
   "casa": {
     "data": "2026-10-14",
-    "pl_mm": 454.07,
+    "pl_mm": 454.45,
     "carteiras": [
       58,
       1405,
@@ -23,8 +23,8 @@
       "bench_bluedeck": "IPCA + Yield IMAB",
       "data": "2026-10-14",
       "inicio": "2019-12-27",
-      "cota": 843.3097135,
-      "pl_mm": 221.62199334,
+      "cota": 844.2076797,
+      "pl_mm": 221.85790983,
       "f": {
         "dia": -0.99,
         "mes": 14.49,
