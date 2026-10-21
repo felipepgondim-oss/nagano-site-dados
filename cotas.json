@@ -1,5 +1,5 @@
 {
-  "gerado": "2026-10-21T09:15:08-03:00",
+  "gerado": "2026-10-21T09:21:11-03:00",
   "fonte": "historico das planilhas ate set/2026 + retorno diario oficial da Bluedeck (fundo e benchmark)",
   "data": "2026-10-20",
   "casa": {
@@ -27,12 +27,12 @@
       "pl_mm": 225.90288968,
       "f": {
         "dia": 2.01,
-        "mes": 16.54,
-        "ano": 28.77,
-        "12m": 35.77,
-        "24m": 61.61,
-        "36m": 91.67,
-        "inicio": 221.54
+        "mes": 16.66,
+        "ano": 28.91,
+        "12m": 35.91,
+        "24m": 61.78,
+        "36m": 91.88,
+        "inicio": 221.88
       },
       "b": {
         "dia": 0.04,
