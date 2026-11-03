@@ -7,8 +7,10 @@ ao abrir, e por isso **a atualização diária não exige republicar o site** (n
   SharePoint (`Site Nagano Historico Cotas`); daí em diante, o job `site_cotas` do `nagano-scheduler` emenda
   **um dia útil por vez** com o retorno diário OFICIAL da Bluedeck — do fundo e do benchmark ("IPCA + Yield IMAB"
   no TR, IBXX no FIA). Dia com posição em cálculo não entra: a emenda para e tenta de novo na próxima execução.
+  O TR tem uma 4ª coluna, `bench2` = nível do Ibovespa (desde 03/nov/2026): o histórico até 30/out/2026 é o
+  fechamento do `IBOV Index` na Bloomberg (dia sem pregão repete o anterior); daí em diante, o retorno do IBOV na Bluedeck.
 - `cotas.json`: cota e PL do último dia emendado + retornos dia/mês/ano/12M/24M/36M/início do fundo (`f`) e do
-  benchmark (`b`), em %.
+  benchmark (`b`), em %. No TR, também `b2` (Ibovespa).
 - Os fundos são identificados pelo **código do Bluedeck** (`bluedeck_id`), não pelo nome.
 - **Não edite o histórico à mão** sem parar o job; para corrigir o passado, regrave o CSV inteiro.
 
